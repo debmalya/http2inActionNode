@@ -1,0 +1,23 @@
+{
+  "name": "http2_in_action",
+  "version": "1.0.0",
+  "description": "http2 in action code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debmalya/http2inActionNode.git"
+  },
+  "keywords": [
+    "node.js",
+    "http2inaction"
+  ],
+  "author": "debmalya jash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debmalya/http2inActionNode/issues"
+  },
+  "homepage": "https://github.com/debmalya/http2inActionNode#readme"
+}
